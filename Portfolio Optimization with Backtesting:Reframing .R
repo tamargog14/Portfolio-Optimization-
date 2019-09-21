@@ -1,3 +1,4 @@
+library(PortfolioAnalytics)
 data("indexes") 
 returns <- indexes[,1:4]
 print(returns)
